@@ -24,3 +24,47 @@ VALUES
 ('19','LET4015','LETICIA','M','2','leticia@yahoo.com','655-143-4019','BLACKBERRY','UNEFON','100','1'),
 ('20','LUI1076','LUIS','H','3','luis2@live.com','655-100-5085','SONY','UNEFON','150','1'),
 ('21','HUG5441','HUGO','H','2','hugo@live.com','655-137-3935','MOTOROLA','AT&T','500','1');
+
+
+Consultas 2
+Listar nombre y teléfono de los usuarios con teléfono que no sea de la marca LG o SAMSUNG
+Listar el login y teléfono de los usuarios con compañia telefónica IUSACELL
+Listar el login y teléfono de los usuarios con compañia telefónica que no sea TELCEL
+Calcular el saldo promedio de los usuarios que tienen teléfono marca NOKIA
+Listar el login y teléfono de los usuarios con compañia telefónica IUSACELL o AXEL
+Mostrar el email de los usuarios que no usan yahoo
+Listar el login y teléfono de los usuarios con compañia telefónica que no sea TELCEL o IUSACELL
+Listar el login y teléfono de los usuarios con compañia telefónica UNEFON
+Listar las diferentes marcas de celular en orden alfabético descendentemente
+Listar las diferentes compañias en orden alfabético aleatorio
+Listar el login de los usuarios con nivel 0 o 2
+Calcular el saldo promedio de los usuarios que tienen teléfono marca LG
+
+
+Consultas 3
+Listar el login de los usuarios con nivel 1 o 3
+Listar nombre y teléfono de los usuarios con teléfono que no sea de la marca BLACKBERRY
+Listar el login de los usuarios con nivel 3
+Listar el login de los usuarios con nivel 0
+Listar el login de los usuarios con nivel 1
+Contar el número de usuarios por sexo
+Listar el login y teléfono de los usuarios con compañia telefónica AT&T
+Listar las diferentes compañias en orden alfabético descendentemente
+Listar el logn de los usuarios inactivos
+Listar los números de teléfono sin saldo
+Calcular el saldo mínimo de los usuarios de sexo “Hombre”
+Listar los números de teléfono con saldo mayor a 300
+
+Consultas 4
+Contar el número de usuarios por marca de teléfono
+Listar nombre y teléfono de los usuarios con teléfono que no sea de la marca LG
+Listar las diferentes compañias en orden alfabético ascendentemente
+Calcular la suma de los saldos de los usuarios de la compañia telefónica UNEFON
+Mostrar el email de los usuarios que usan hotmail
+Listar los nombres de los usuarios sin saldo o inactivos
+Listar el login y teléfono de los usuarios con compañia telefónicaIUSACELL o TELCEL
+Listar las diferentes marcas de celular en orden alfabético ascendentemente
+Listar las diferentes marcas de celular en orden alfabético aleatorio
+Listar el login y teléfono de los usuarios con compañia telefónica IUSACELL o UNEFON
+Listar nombre y teléfono de los usuarios con teléfono que no sea de la marca MOTOROLA o NOKIA
+Calcular la suma de los saldos de los usuarios de la compañia telefónica TELCEL
